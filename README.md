@@ -27,4 +27,5 @@ Install
 
 ```bash
 uv add langgraph python-dotenv notebook
+uv add langchain langchain-google-genai
 ```
